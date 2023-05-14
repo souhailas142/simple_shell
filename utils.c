@@ -20,6 +20,7 @@ int _strcmp(char *str1, char *str2)
 	}
 	return (0);
 }
+
 /**
  * _strdup - Duplicates a string
  * @str: String to be duplicated

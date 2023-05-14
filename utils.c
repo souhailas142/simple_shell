@@ -49,7 +49,7 @@ char *_strdup(char *str)
 /**
  * _strlen - Sizes the length of a string
  * @string: String to be sized
- * Return: The length ot the string
+ * Return: The length ot string
  */
 
 int _strlen(const char *string)
@@ -68,7 +68,7 @@ int _strlen(const char *string)
  * _printp - Prints the prompt in standar input
  * @prompt: Pointer to the string to be printed
  * @size: Length ot the prompt
- * Return: 0 if success or -1 if fails
+ * Return: 0 if success or -1 if fail
  */
 int _printp(const char *prompt, unsigned int size)
 {
